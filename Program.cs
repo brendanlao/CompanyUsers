@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 using CompanyUsers.Models;
 using CompanyUsers.Data;
 
-namespace HelloWorld
+namespace CompanyUsers
 {
     internal class Program
     {
